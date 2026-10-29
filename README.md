@@ -25,3 +25,8 @@ Telegram-бот на Python для запуска вспомогательных
 ## Практика
 
 Работаю в собственных лабораториях и разрешённых учебных средах. Развиваю навыки анализа, автоматизации и поиска уязвимостей.
+## Связь и профили
+
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/W1nxs1p69)
+[![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@w1nxs1p69)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/)
