@@ -11,7 +11,7 @@
 
 ## Технологии и инструменты
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1nxS1p69&layout=compact&theme=tokyonight&hide_border=true&frame_hide=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W1nxS1p69&layout=compact&theme=tokyonight&hide_border=true&frame_hide=true" alt="Top Languages" />
 </p>
 
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
