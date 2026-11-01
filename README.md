@@ -1,3 +1,6 @@
+<img width="1280" height="427" alt="изображение" src="https://github.com/user-attachments/assets/5c9e5672-ec38-4f25-969e-de6776f75ad6" />
+
+
 # W1NXS1P69
 
 ### Junior Pentester · Python · Linux
